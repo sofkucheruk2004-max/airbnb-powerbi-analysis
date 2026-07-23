@@ -30,10 +30,6 @@ This project explores Airbnb data using Power BI. The goal was to transform raw 
 
 ## 📊 Dashboard
 
-### Executive Dashboard
-
-![Dashboard](images/page1.png)
-
 ---
 
 ## 📈 Key Insights
@@ -49,7 +45,7 @@ This project explores Airbnb data using Power BI. The goal was to transform raw 
 
 | File | Description |
 |------|-------------|
-| Airbnb_Market_Analysis.pbix | Power BI dashboard |
+| Airbnb_Analysis.pbix | Power BI dashboard |
 | Presentation.pdf | Final presentation |
 | dashboard.png | Dashboard preview |
 
