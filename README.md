@@ -34,7 +34,7 @@ This project explores Airbnb data using Power BI. The goal was to transform raw 
   <img src="Screenshot 2026-07-23 153841.png" width="24%">
   <img src="Screenshot 2026-07-23 153916.png" width="24%">
   <img src="Screenshot 2026-07-23 153954.png" width="24%">
-  <img src="images/page4.png" width="24%">
+  <img src="Screenshot 2026-07-23 154018.png" width="24%">
 </p>
 
 ---
