@@ -53,7 +53,7 @@ This project explores Airbnb data using Power BI. The goal was to transform raw 
 | File | Description |
 |------|-------------|
 | Airbnb_Analysis.pbix | Power BI dashboard |
-| dashboard.png | Dashboard |
+| dashboard 1, 2, 3, 4 pages.png | Dashboard |
 | Video Project.mp4 | Dashboard videoverview |
 
 ---
