@@ -31,10 +31,10 @@ This project explores Airbnb data using Power BI. The goal was to transform raw 
 ## 📊 Dashboard
 
 <p align="center">
-  <img src="Screenshot 2026-07-23 153841.png" width="24%">
-  <img src="Screenshot 2026-07-23 153916.png" width="24%">
-  <img src="Screenshot 2026-07-23 153954.png" width="24%">
-  <img src="Screenshot 2026-07-23 154018.png" width="24%">
+  <img src="Dashboard page 1.png" width="24%">
+  <img src="Dashboard page 2.png" width="24%">
+  <img src="Dashboard page 3.png" width="24%">
+  <img src="Dashboard page 4.png" width="24%">
 </p>
 
 ---
